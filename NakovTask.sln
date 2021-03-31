@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NakovTask", "NakovTask.csproj", "{F46A70B5-AF30-4C36-B412-11AEEA5DF2DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F46A70B5-AF30-4C36-B412-11AEEA5DF2DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F46A70B5-AF30-4C36-B412-11AEEA5DF2DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F46A70B5-AF30-4C36-B412-11AEEA5DF2DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F46A70B5-AF30-4C36-B412-11AEEA5DF2DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4DBA299-1652-41E3-AD87-2D9312B52FF6}
+	EndGlobalSection
+EndGlobal
